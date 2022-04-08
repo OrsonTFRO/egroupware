@@ -9,7 +9,7 @@
 %1 rights for %2 and applications %3	admin	pl	%1 prawa dla %2 i aplikacji %3
 %1 user %2	admin	pl	%1 użytkownik %2
 (default no, leave it off if you dont use it)	admin	pl	(standardowo nie, pozostaw wyłączone, jeśli nie używasz)
-(stored password will not be shown here)	admin	pl	(Przechowywane hasło nie bdzie tutaj wyświetlane)
+(stored password will not be shown here)	admin	pl	(Przechowywane hasło nie będzie tutaj wyświetlane)
 (to install new applications use<br><a href="setup/" target="setup">setup</a> [manage applications] !!!)	admin	pl	(Aby zainstalować nowe aplikacje, użyj<br><a href="setup/" target="setup">Setup</a> [Zarządzaj aplikacjami] !!!)
 -  type	admin	pl	- typ
 accesslog and bruteforce defense	admin	pl	Dziennik dostępu oraz ochrona przed atakiem typu BruteForce
@@ -240,7 +240,7 @@ enter your http proxy server	admin	pl	Domyślny serwer HTTP proxy
 enter your http proxy server port	admin	pl	Domyślny port serwera HTTP proxy
 enter your smtp server hostname or ip address	admin	pl	Podaj nazwę hosta serwera SMTP lub adres IP
 enter your smtp server port	admin	pl	Podaj port serwera SMTP
-error canceling timer, maybe there's none set !!!	admin	pl	Błąd podczas wylączania timera, może żaden nie jest ustawiony !!!!
+error canceling timer, maybe there's none set !!!	admin	pl	Błąd podczas wyłączania timera, może żaden nie jest ustawiony !!!!
 error changing the password for %1 !!!	admin	pl	Błąd podczas zmiany hasła dla %1 !!!
 error deleting log entry!	admin	pl	Błąd podczas usuwania wpisu dziennika!
 error saving	admin	pl	Błąd przy zapisie
@@ -283,7 +283,7 @@ hide php information	admin	pl	Ukryj informacje o PHP
 home directory	admin	pl	Katalog domowy
 host information	admin	pl	Informacja o stacji roboczej
 hour<br>(0-23)	admin	pl	Godzina<br>(0-23)
-how big should thumbnails for linked images be (maximum in pixels) ?	admin	pl	Jak duże powinny być miniatury linkowanych obrazków (w pikselach) ?
+how big should thumbnails for linked images be (maximum in pixels) ?	admin	pl	Jak duże powinny być miniatury linkowanych obrazków (maksymalny rozmiar w pikselach) ?
 how many days should entries stay in the access log, before they get deleted (default 90) ?	admin	pl	Ile dni wpisy powinny pozostawać w dzienniku dostępu, zanim zostaną wykasowane (domyślnie 90)?
 how many entries should non-admins be able to export (empty = no limit, no = no export)	admin	pl	Ile wpisów może eksportować użytkownik bez praw administracyjnych (puste = bez limitu, no = brak praw eksportu)
 how many minutes should an account or ip be blocked (default 1) ?	admin	pl	Na ile minut powinno być blokowane konto użytkownika lub adres IP stacji roboczej (domyślnie 30)?
@@ -311,7 +311,7 @@ invalid value "%1" use yes or no!	admin	pl	Nieprawidłowa wartość "%" użyj "y
 ip	admin	pl	IP
 jobs	admin	pl	Zadania
 kill	admin	pl	Zabij
-kill session	admin	pl	Usuwanie sesji
+kill session	admin	pl	Wymuś zamknięcie sesji
 last %1 logins	admin	pl	Ostanie %1 logowań
 last %1 logins for %2	admin	pl	Ostatnie %1 logowań %2
 last login	admin	pl	Ostatnie logowanie
@@ -355,7 +355,7 @@ maximum entries in click path history	admin	pl	Maksymlna ilość zapamiętanych 
 members	admin	pl	Członkowie
 message has been updated	admin	pl	Zaktualizowano wiadomość
 method	admin	pl	Metoda
-minimum account id (e.g. 500 or 100, etc.)	admin	pl	Minimalny ID konta (np:500 lub 100 )
+minimum account id (e.g. 500 or 100, etc.)	admin	pl	Minimalny ID konta (np:500 lub 100)
 minute	admin	pl	Minuta
 mode	admin	pl	Tryb
 modified	admin	pl	Zmodyfikowany
@@ -427,7 +427,7 @@ remote administration need to be enabled in the remote instance under admin > si
 remote instance saved	admin	pl	Zdalna instancja zapisana
 remove	admin	pl	usuń
 remove all users from this group	admin	pl	Usuwanie wszystkich użytkowników z grupy
-remove all users from this group ?	admin	pl	Usuń wszystkich użytkownikw z grupy ?
+remove all users from this group ?	admin	pl	Czy usunąć wszystkich użytkowników z grupy ?
 requested	admin	pl	Żądany
 return to view account	admin	pl	Wróć do wyświetlania konta
 rights	admin	pl	Prawa
@@ -641,7 +641,7 @@ error saving the entry!!!	admin	pl	Błąd przy zachowywaniu wpisu !!!
 event details follow	admin	pl	Detale Wydarzenia Następują
 file rejected, no %2. is:%1	admin	pl	Plik odrzucony. Jest %1 nie %2.
 filtered by account	admin	pl	Filtrowane przez konto
-filtered by group	admin	pl	Filtrowane przez grupe
+filtered by group	admin	pl	Filtrowane przez grupę
 forward also to	admin	pl	Prześlij również do
 forward email's to	admin	pl	Prześlij wiadomości do
 forward only	admin	pl	Prześlij tylko
